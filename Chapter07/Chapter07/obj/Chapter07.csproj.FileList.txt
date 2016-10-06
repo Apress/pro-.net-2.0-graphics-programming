@@ -1,0 +1,8 @@
+bin\Debug\Chapter07.exe
+bin\Debug\Chapter07.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Chapter07.Form1.resources
+obj\Debug\Chapter07.Properties.Resources.resources
+obj\Debug\Chapter07.csproj.GenerateResource.Cache
+obj\Debug\Chapter07.exe
+obj\Debug\Chapter07.pdb

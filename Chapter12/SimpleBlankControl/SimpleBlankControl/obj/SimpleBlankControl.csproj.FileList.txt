@@ -1,0 +1,7 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\SimpleBlankControl.SimpleBlankControl.resources
+obj\Debug\SimpleBlankControl.csproj.GenerateResource.Cache
+bin\Debug\SimpleBlankControl.dll
+bin\Debug\SimpleBlankControl.pdb
+obj\Debug\SimpleBlankControl.dll
+obj\Debug\SimpleBlankControl.pdb

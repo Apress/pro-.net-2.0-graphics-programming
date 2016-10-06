@@ -1,0 +1,11 @@
+bin\Debug\TestModifiedScrollAndSelectList.exe
+bin\Debug\TestModifiedScrollAndSelectList.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\TestModifiedScrollAndSelectList.Properties.Resources.resources
+obj\Debug\TestModifiedScrollAndSelectList.csproj.GenerateResource.Cache
+obj\Debug\TestModifiedScrollAndSelectList.exe
+obj\Debug\TestModifiedScrollAndSelectList.pdb
+bin\Debug\\Apress.GraphicsOutlineModel.dll
+bin\Debug\\ModifiedScrollAndSelectList.dll
+bin\Debug\\ModifiedScrollAndSelectList.pdb
+obj\Debug\TestModifiedScrollAndSelectList.Form1.resources

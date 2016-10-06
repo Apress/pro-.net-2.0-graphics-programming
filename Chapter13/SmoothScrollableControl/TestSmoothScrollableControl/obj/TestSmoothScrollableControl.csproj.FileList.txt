@@ -1,0 +1,10 @@
+bin\Debug\TestSmoothScrollableControl.exe
+bin\Debug\TestSmoothScrollableControl.pdb
+bin\Debug\\SmoothScrollableControl.dll
+bin\Debug\\SmoothScrollableControl.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\TestSmoothScrollableControl.Form1.resources
+obj\Debug\TestSmoothScrollableControl.Properties.Resources.resources
+obj\Debug\TestSmoothScrollableControl.csproj.GenerateResource.Cache
+obj\Debug\TestSmoothScrollableControl.exe
+obj\Debug\TestSmoothScrollableControl.pdb

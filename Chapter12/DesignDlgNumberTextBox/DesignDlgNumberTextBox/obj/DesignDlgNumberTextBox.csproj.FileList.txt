@@ -1,0 +1,8 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\DesignDlgNumberTextBox.NumberRangeDialog.resources
+obj\Debug\DesignDlgNumberTextBox.csproj.GenerateResource.Cache
+bin\Debug\DesignDlgNumberTextBox.dll
+bin\Debug\DesignDlgNumberTextBox.pdb
+obj\Debug\DesignDlgNumberTextBox.NumberTextBoxB.resources
+obj\Debug\DesignDlgNumberTextBox.dll
+obj\Debug\DesignDlgNumberTextBox.pdb

@@ -1,0 +1,8 @@
+bin\Debug\BitBltExample.exe
+bin\Debug\BitBltExample.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\BitBltExample.Form1.resources
+obj\Debug\BitBltExample.Properties.Resources.resources
+obj\Debug\BitBltExample.csproj.GenerateResource.Cache
+obj\Debug\BitBltExample.exe
+obj\Debug\BitBltExample.pdb

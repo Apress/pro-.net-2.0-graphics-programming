@@ -1,0 +1,8 @@
+bin\Debug\RulerPrintingExample.exe
+bin\Debug\RulerPrintingExample.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\RulerPrintingExample.Form1.resources
+obj\Debug\RulerPrintingExample.Properties.Resources.resources
+obj\Debug\RulerPrintingExample.csproj.GenerateResource.Cache
+obj\Debug\RulerPrintingExample.exe
+obj\Debug\RulerPrintingExample.pdb

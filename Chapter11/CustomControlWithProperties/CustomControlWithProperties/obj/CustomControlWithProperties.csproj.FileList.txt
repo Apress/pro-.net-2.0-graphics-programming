@@ -1,0 +1,7 @@
+bin\Debug\CustomControlWithProperties.dll
+bin\Debug\CustomControlWithProperties.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\CustomControlWithProperties.CustomControlWithProperties.resources
+obj\Debug\CustomControlWithProperties.csproj.GenerateResource.Cache
+obj\Debug\CustomControlWithProperties.dll
+obj\Debug\CustomControlWithProperties.pdb

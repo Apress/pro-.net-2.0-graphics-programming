@@ -1,0 +1,7 @@
+bin\Debug\FocusableControl.dll
+bin\Debug\FocusableControl.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\FocusableControl.FocusableControl.resources
+obj\Debug\FocusableControl.csproj.GenerateResource.Cache
+obj\Debug\FocusableControl.dll
+obj\Debug\FocusableControl.pdb

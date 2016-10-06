@@ -1,0 +1,8 @@
+bin\Debug\PlayAnimation.exe
+bin\Debug\PlayAnimation.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\PlayAnimation.Form1.resources
+obj\Debug\PlayAnimation.Properties.Resources.resources
+obj\Debug\PlayAnimation.csproj.GenerateResource.Cache
+obj\Debug\PlayAnimation.exe
+obj\Debug\PlayAnimation.pdb

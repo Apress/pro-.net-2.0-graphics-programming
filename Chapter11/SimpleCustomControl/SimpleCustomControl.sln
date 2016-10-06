@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleCustomControl", "SimpleCustomControl\SimpleCustomControl.csproj", "{581170B2-8863-4D25-B474-95586A68FF1E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestSimpleCustomControl", "TestSimpleCustomControl\TestSimpleCustomControl.csproj", "{8233CAF0-81C2-42F2-B7D8-876FB2379379}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{581170B2-8863-4D25-B474-95586A68FF1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{581170B2-8863-4D25-B474-95586A68FF1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{581170B2-8863-4D25-B474-95586A68FF1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{581170B2-8863-4D25-B474-95586A68FF1E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8233CAF0-81C2-42F2-B7D8-876FB2379379}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8233CAF0-81C2-42F2-B7D8-876FB2379379}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8233CAF0-81C2-42F2-B7D8-876FB2379379}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8233CAF0-81C2-42F2-B7D8-876FB2379379}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,8 @@
+bin\Debug\ScrollingPicture.exe
+bin\Debug\ScrollingPicture.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\ScrollingPicture.Form1.resources
+obj\Debug\ScrollingPicture.Properties.Resources.resources
+obj\Debug\ScrollingPicture.csproj.GenerateResource.Cache
+obj\Debug\ScrollingPicture.exe
+obj\Debug\ScrollingPicture.pdb

@@ -1,0 +1,5 @@
+bin\Debug\Apress.GraphicsOutlineModel.dll
+bin\Debug\Apress.GraphicsOutlineModel.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Apress.GraphicsOutlineModel.dll
+obj\Debug\Apress.GraphicsOutlineModel.pdb

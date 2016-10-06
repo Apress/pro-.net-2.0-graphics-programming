@@ -1,0 +1,10 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\TestFocusableControlWithEvents.Form1.resources
+obj\Debug\TestFocusableControlWithEvents.Properties.Resources.resources
+obj\Debug\TestFocusableControlWithEvents.csproj.GenerateResource.Cache
+bin\Debug\TestFocusableControlWithEvents.exe
+bin\Debug\TestFocusableControlWithEvents.pdb
+bin\Debug\\FocusableControlWithEvents.dll
+bin\Debug\\FocusableControlWithEvents.pdb
+obj\Debug\TestFocusableControlWithEvents.exe
+obj\Debug\TestFocusableControlWithEvents.pdb

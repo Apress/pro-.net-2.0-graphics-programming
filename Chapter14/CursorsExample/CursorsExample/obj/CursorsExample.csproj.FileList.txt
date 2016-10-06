@@ -1,0 +1,8 @@
+bin\Debug\CursorsExample.exe
+bin\Debug\CursorsExample.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\CursorsExample.Form1.resources
+obj\Debug\CursorsExample.Properties.Resources.resources
+obj\Debug\CursorsExample.csproj.GenerateResource.Cache
+obj\Debug\CursorsExample.exe
+obj\Debug\CursorsExample.pdb

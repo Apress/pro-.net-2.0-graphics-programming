@@ -1,0 +1,8 @@
+bin\Debug\TrafficLights.exe
+bin\Debug\TrafficLights.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\TrafficLights.Form1.resources
+obj\Debug\TrafficLights.Properties.Resources.resources
+obj\Debug\TrafficLights.csproj.GenerateResource.Cache
+obj\Debug\TrafficLights.exe
+obj\Debug\TrafficLights.pdb

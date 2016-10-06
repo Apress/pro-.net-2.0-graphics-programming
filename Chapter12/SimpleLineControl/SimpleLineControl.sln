@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleLineControl", "SimpleLineControl\SimpleLineControl.csproj", "{91A76CE3-433E-4D8D-AD80-B5B2C1C93F3D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestSimpleLineControl", "TestSimpleLineControl\TestSimpleLineControl.csproj", "{D0DDED65-B973-4557-9178-6818D99F5B5B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{91A76CE3-433E-4D8D-AD80-B5B2C1C93F3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91A76CE3-433E-4D8D-AD80-B5B2C1C93F3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91A76CE3-433E-4D8D-AD80-B5B2C1C93F3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91A76CE3-433E-4D8D-AD80-B5B2C1C93F3D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D0DDED65-B973-4557-9178-6818D99F5B5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0DDED65-B973-4557-9178-6818D99F5B5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0DDED65-B973-4557-9178-6818D99F5B5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0DDED65-B973-4557-9178-6818D99F5B5B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

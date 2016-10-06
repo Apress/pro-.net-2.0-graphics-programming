@@ -1,0 +1,8 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\DesignDropDownNumberTextBox.NumberRangeDropDown.resources
+obj\Debug\DesignDropDownNumberTextBox.NumberTextBoxC.resources
+obj\Debug\DesignDropDownNumberTextBox.csproj.GenerateResource.Cache
+bin\Debug\DesignDropDownNumberTextBox.dll
+bin\Debug\DesignDropDownNumberTextBox.pdb
+obj\Debug\DesignDropDownNumberTextBox.dll
+obj\Debug\DesignDropDownNumberTextBox.pdb

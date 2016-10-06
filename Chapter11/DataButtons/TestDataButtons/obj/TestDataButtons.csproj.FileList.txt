@@ -1,0 +1,10 @@
+bin\Debug\TestDataButtons.exe
+bin\Debug\TestDataButtons.pdb
+bin\Debug\\DataButtons.dll
+bin\Debug\\DataButtons.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\TestDataButtons.Form1.resources
+obj\Debug\TestDataButtons.Properties.Resources.resources
+obj\Debug\TestDataButtons.csproj.GenerateResource.Cache
+obj\Debug\TestDataButtons.exe
+obj\Debug\TestDataButtons.pdb

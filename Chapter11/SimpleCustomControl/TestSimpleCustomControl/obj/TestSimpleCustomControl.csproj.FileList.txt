@@ -1,0 +1,10 @@
+bin\Debug\TestSimpleCustomControl.exe
+bin\Debug\TestSimpleCustomControl.pdb
+bin\Debug\\SimpleCustomControl.dll
+bin\Debug\\SimpleCustomControl.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\TestSimpleCustomControl.Form1.resources
+obj\Debug\TestSimpleCustomControl.Properties.Resources.resources
+obj\Debug\TestSimpleCustomControl.csproj.GenerateResource.Cache
+obj\Debug\TestSimpleCustomControl.exe
+obj\Debug\TestSimpleCustomControl.pdb

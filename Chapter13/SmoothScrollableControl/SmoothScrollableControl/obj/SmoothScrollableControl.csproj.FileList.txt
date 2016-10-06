@@ -1,0 +1,7 @@
+bin\Debug\SmoothScrollableControl.dll
+bin\Debug\SmoothScrollableControl.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\SmoothScrollableControl.SmoothScrollableControl.resources
+obj\Debug\SmoothScrollableControl.csproj.GenerateResource.Cache
+obj\Debug\SmoothScrollableControl.dll
+obj\Debug\SmoothScrollableControl.pdb

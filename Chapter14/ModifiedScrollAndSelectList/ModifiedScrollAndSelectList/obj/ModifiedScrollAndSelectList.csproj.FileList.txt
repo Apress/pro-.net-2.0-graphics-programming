@@ -1,0 +1,7 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\ModifiedScrollAndSelectList.ModifiedScrollAndSelectList.resources
+obj\Debug\ModifiedScrollAndSelectList.csproj.GenerateResource.Cache
+bin\Debug\ModifiedScrollAndSelectList.dll
+bin\Debug\ModifiedScrollAndSelectList.pdb
+obj\Debug\ModifiedScrollAndSelectList.dll
+obj\Debug\ModifiedScrollAndSelectList.pdb

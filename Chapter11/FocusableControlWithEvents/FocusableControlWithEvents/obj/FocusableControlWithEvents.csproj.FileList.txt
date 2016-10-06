@@ -1,0 +1,7 @@
+bin\Debug\FocusableControlWithEvents.dll
+bin\Debug\FocusableControlWithEvents.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\FocusableControlWithEvents.FocusableControlWithEvents.resources
+obj\Debug\FocusableControlWithEvents.csproj.GenerateResource.Cache
+obj\Debug\FocusableControlWithEvents.dll
+obj\Debug\FocusableControlWithEvents.pdb

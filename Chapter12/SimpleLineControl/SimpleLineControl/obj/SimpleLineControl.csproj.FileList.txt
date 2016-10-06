@@ -1,0 +1,7 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\SimpleLineControl.SimpleLineControl.resources
+obj\Debug\SimpleLineControl.csproj.GenerateResource.Cache
+bin\Debug\SimpleLineControl.dll
+bin\Debug\SimpleLineControl.pdb
+obj\Debug\SimpleLineControl.dll
+obj\Debug\SimpleLineControl.pdb

@@ -1,0 +1,7 @@
+bin\Debug\DataButtons.dll
+bin\Debug\DataButtons.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\DataButtons.DataButtons.resources
+obj\Debug\DataButtons.csproj.GenerateResource.Cache
+obj\Debug\DataButtons.dll
+obj\Debug\DataButtons.pdb

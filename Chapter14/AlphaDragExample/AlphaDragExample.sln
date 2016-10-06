@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlphaDragExample", "AlphaDragExample\AlphaDragExample.csproj", "{553E69A8-CD94-41B1-A2AA-4F1D7B9584BE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{553E69A8-CD94-41B1-A2AA-4F1D7B9584BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{553E69A8-CD94-41B1-A2AA-4F1D7B9584BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{553E69A8-CD94-41B1-A2AA-4F1D7B9584BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{553E69A8-CD94-41B1-A2AA-4F1D7B9584BE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

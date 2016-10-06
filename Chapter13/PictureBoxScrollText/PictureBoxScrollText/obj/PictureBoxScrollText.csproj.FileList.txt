@@ -1,0 +1,8 @@
+bin\Debug\PictureBoxScrollText.exe
+bin\Debug\PictureBoxScrollText.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\PictureBoxScrollText.Form1.resources
+obj\Debug\PictureBoxScrollText.Properties.Resources.resources
+obj\Debug\PictureBoxScrollText.csproj.GenerateResource.Cache
+obj\Debug\PictureBoxScrollText.exe
+obj\Debug\PictureBoxScrollText.pdb

@@ -1,0 +1,10 @@
+bin\Debug\TestDesignNumberTextBox.exe
+bin\Debug\TestDesignNumberTextBox.pdb
+bin\Debug\\DesignNumberTextBox.dll
+bin\Debug\\DesignNumberTextBox.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\TestDesignNumberTextBox.Form1.resources
+obj\Debug\TestDesignNumberTextBox.Properties.Resources.resources
+obj\Debug\TestDesignNumberTextBox.csproj.GenerateResource.Cache
+obj\Debug\TestDesignNumberTextBox.exe
+obj\Debug\TestDesignNumberTextBox.pdb

@@ -1,0 +1,8 @@
+bin\Debug\HitTestExample.exe
+bin\Debug\HitTestExample.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\HitTestExample.Form1.resources
+obj\Debug\HitTestExample.Properties.Resources.resources
+obj\Debug\HitTestExample.csproj.GenerateResource.Cache
+obj\Debug\HitTestExample.exe
+obj\Debug\HitTestExample.pdb

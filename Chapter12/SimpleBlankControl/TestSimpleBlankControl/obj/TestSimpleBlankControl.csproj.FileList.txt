@@ -1,0 +1,10 @@
+bin\Debug\TestSimpleBlankControl.exe
+bin\Debug\TestSimpleBlankControl.pdb
+bin\Debug\\SimpleBlankControl.dll
+bin\Debug\\SimpleBlankControl.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\TestSimpleBlankControl.Form1.resources
+obj\Debug\TestSimpleBlankControl.Properties.Resources.resources
+obj\Debug\TestSimpleBlankControl.csproj.GenerateResource.Cache
+obj\Debug\TestSimpleBlankControl.exe
+obj\Debug\TestSimpleBlankControl.pdb

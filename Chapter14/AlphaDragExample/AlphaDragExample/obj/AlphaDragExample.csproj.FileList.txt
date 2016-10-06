@@ -1,0 +1,8 @@
+bin\Debug\AlphaDragExample.exe
+bin\Debug\AlphaDragExample.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\AlphaDragExample.Form1.resources
+obj\Debug\AlphaDragExample.Properties.Resources.resources
+obj\Debug\AlphaDragExample.csproj.GenerateResource.Cache
+obj\Debug\AlphaDragExample.exe
+obj\Debug\AlphaDragExample.pdb

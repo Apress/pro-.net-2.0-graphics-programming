@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScrollingText", "ScrollingText\ScrollingText.csproj", "{E9A02662-D80F-4AD5-BA3E-B18A88CF0EC2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestScrollingText", "TestScrollingText\TestScrollingText.csproj", "{9CD982B0-EA2F-43C6-B23E-DA46F6D5E937}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E9A02662-D80F-4AD5-BA3E-B18A88CF0EC2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9A02662-D80F-4AD5-BA3E-B18A88CF0EC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9A02662-D80F-4AD5-BA3E-B18A88CF0EC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9A02662-D80F-4AD5-BA3E-B18A88CF0EC2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9CD982B0-EA2F-43C6-B23E-DA46F6D5E937}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CD982B0-EA2F-43C6-B23E-DA46F6D5E937}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CD982B0-EA2F-43C6-B23E-DA46F6D5E937}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CD982B0-EA2F-43C6-B23E-DA46F6D5E937}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

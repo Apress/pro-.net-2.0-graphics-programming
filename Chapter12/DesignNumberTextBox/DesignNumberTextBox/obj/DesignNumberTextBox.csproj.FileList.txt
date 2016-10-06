@@ -1,0 +1,7 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\DesignNumberTextBox.NumberTextBoxA.resources
+obj\Debug\DesignNumberTextBox.csproj.GenerateResource.Cache
+bin\Debug\DesignNumberTextBox.dll
+bin\Debug\DesignNumberTextBox.pdb
+obj\Debug\DesignNumberTextBox.dll
+obj\Debug\DesignNumberTextBox.pdb

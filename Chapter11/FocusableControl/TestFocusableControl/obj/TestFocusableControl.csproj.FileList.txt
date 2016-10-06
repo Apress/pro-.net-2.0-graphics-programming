@@ -1,0 +1,10 @@
+bin\Debug\TestFocusableControl.exe
+bin\Debug\TestFocusableControl.pdb
+bin\Debug\\FocusableControl.dll
+bin\Debug\\FocusableControl.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\TestFocusableControl.Form1.resources
+obj\Debug\TestFocusableControl.Properties.Resources.resources
+obj\Debug\TestFocusableControl.csproj.GenerateResource.Cache
+obj\Debug\TestFocusableControl.exe
+obj\Debug\TestFocusableControl.pdb

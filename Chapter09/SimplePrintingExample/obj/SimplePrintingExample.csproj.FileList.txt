@@ -1,0 +1,8 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\SimplePrintingExample.Form1.resources
+obj\Debug\SimplePrintingExample.Properties.Resources.resources
+obj\Debug\SimplePrintingExample.csproj.GenerateResource.Cache
+bin\Debug\SimplePrintingExample.exe
+bin\Debug\SimplePrintingExample.pdb
+obj\Debug\SimplePrintingExample.exe
+obj\Debug\SimplePrintingExample.pdb

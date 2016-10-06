@@ -1,0 +1,9 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\RoutingMouseEvents.Form1.resources
+obj\Debug\RoutingMouseEvents.Properties.Resources.resources
+obj\Debug\RoutingMouseEvents.csproj.GenerateResource.Cache
+bin\Debug\RoutingMouseEvents.exe
+bin\Debug\RoutingMouseEvents.pdb
+bin\Debug\\Apress.GraphicsOutlineModel.dll
+obj\Debug\RoutingMouseEvents.exe
+obj\Debug\RoutingMouseEvents.pdb

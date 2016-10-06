@@ -1,0 +1,7 @@
+bin\Debug\ScrollingText.dll
+bin\Debug\ScrollingText.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\ScrollingText.ScrollingText.resources
+obj\Debug\ScrollingText.csproj.GenerateResource.Cache
+obj\Debug\ScrollingText.dll
+obj\Debug\ScrollingText.pdb

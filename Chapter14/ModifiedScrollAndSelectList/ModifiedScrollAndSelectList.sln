@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ModifiedScrollAndSelectList", "ModifiedScrollAndSelectList\ModifiedScrollAndSelectList.csproj", "{452408B8-8858-46A1-B17A-CD863B5B917A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestModifiedScrollAndSelectList", "TestModifiedScrollAndSelectList\TestModifiedScrollAndSelectList.csproj", "{D0CE2FDA-EFBF-4B10-93BC-96C7ED59A8E2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{452408B8-8858-46A1-B17A-CD863B5B917A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{452408B8-8858-46A1-B17A-CD863B5B917A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{452408B8-8858-46A1-B17A-CD863B5B917A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{452408B8-8858-46A1-B17A-CD863B5B917A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D0CE2FDA-EFBF-4B10-93BC-96C7ED59A8E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0CE2FDA-EFBF-4B10-93BC-96C7ED59A8E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0CE2FDA-EFBF-4B10-93BC-96C7ED59A8E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0CE2FDA-EFBF-4B10-93BC-96C7ED59A8E2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

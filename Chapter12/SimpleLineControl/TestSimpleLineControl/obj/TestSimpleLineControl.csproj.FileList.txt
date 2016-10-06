@@ -1,0 +1,10 @@
+bin\Debug\TestSimpleLineControl.exe
+bin\Debug\TestSimpleLineControl.pdb
+bin\Debug\\SimpleLineControl.dll
+bin\Debug\\SimpleLineControl.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\TestSimpleLineControl.Form1.resources
+obj\Debug\TestSimpleLineControl.Properties.Resources.resources
+obj\Debug\TestSimpleLineControl.csproj.GenerateResource.Cache
+obj\Debug\TestSimpleLineControl.exe
+obj\Debug\TestSimpleLineControl.pdb

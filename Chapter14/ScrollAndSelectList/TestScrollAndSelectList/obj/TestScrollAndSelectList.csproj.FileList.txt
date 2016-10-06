@@ -1,0 +1,11 @@
+bin\Debug\TestScrollAndSelectList.exe
+bin\Debug\TestScrollAndSelectList.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\TestScrollAndSelectList.Properties.Resources.resources
+obj\Debug\TestScrollAndSelectList.csproj.GenerateResource.Cache
+obj\Debug\TestScrollAndSelectList.exe
+obj\Debug\TestScrollAndSelectList.pdb
+bin\Debug\\Apress.GraphicsOutlineModel.dll
+bin\Debug\\ScrollAndSelectList.dll
+bin\Debug\\ScrollAndSelectList.pdb
+obj\Debug\TestScrollAndSelectList.Form1.resources
